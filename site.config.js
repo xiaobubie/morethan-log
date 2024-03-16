@@ -2,24 +2,24 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Lemonpooh",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    image: "/IMG_3559.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "SOC Analyst",
+    bio: "This is my blog.",
+    email: "angelgoh0411@gmail.com",
+    linkedin: "",
+    github: "https://github.com/lemonpooh/lemonpooh",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `MD5-HASH Assembly`,
+      href: "https://github.com/lemonpooh/MD5-Hashing-Assembly-Code",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Lemonpooh Blog",
+    description: "Welcome to Lemonpooh blog website.",
   },
 
   // CONFIG configration (required)
